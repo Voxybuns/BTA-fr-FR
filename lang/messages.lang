@@ -1,36 +1,36 @@
-messages.player_joined=%s joined the game.
-messages.player_left=%s left the game.
-messages.player_kicked=%s left the game.
+messages.player_joined=%s a rejoint la partie.
+messages.player_left=%s a quitté la partie.
+messages.player_kicked=%s a quitté la partie.
 
-messages.illegal_characters=[SERVER] Illegal characters in chat message.
+messages.illegal_characters=[SERVEUR] Caractères non-admis dans le message de tchat.
 
-messages.sleep.succeed=%s went to sleep. Sweet dreams!
-messages.sleep.enter_bed=%s went to bed.
-messages.sleep.exit_bed=%s has left their bed.
-messages.sleep.more_required=%s more players are required to sleep to skip to daytime.
-messages.sleep.more_required.singular=%s more player is required to sleep to skip to daytime.
+messages.sleep.succeed=%s est en train de dormir. Bonne nuit !
+messages.sleep.enter_bed=%s est parti(e) se coucher.
+messages.sleep.exit_bed=%s a quitté son lit.
+messages.sleep.more_required=%s autres joueurs doivent dormir pour passer la nuit.
+messages.sleep.more_required.singular=%s autre joueur doit dormir pour passer la nuit.
 
-messages.bed.occupied=This bed is occupied.
-messages.bed.noSleep=You can only sleep at night or during thunderstorms.
-messages.bed.setSpawn=Respawn point set.
-messages.bed.notValid=Your home bed was missing or obstructed.
-messages.bed.noAllowSleeping=Sleeping is disabled.
-messages.bed.unsafeToSleep=It's not safe to sleep here.
+messages.bed.occupied=Ce lit est occupé.
+messages.bed.noSleep=Vous ne pouvez dormir que pendant la nuit ou l'orage.
+messages.bed.setSpawn=Point de réapparition défini.
+messages.bed.notValid=Votre lit a été détruit, ou est obstrué.
+messages.bed.noAllowSleeping=Le sommeil est désactivé.
+messages.bed.unsafeToSleep=Dormir ici ne serait pas prudent.
 
-messages.wand.wrongmode=You must be in Creative mode to use this item!
+messages.wand.wrongmode=Cet objet n'est utilisable qu'en mode créatif !
 
-messages.flag.full=You have too many flags on this map!
-messages.flag.overwrite=Cannot overwrite an existing pattern.
-messages.flag.copied=Flag pattern copied.
+messages.flag.full=Ce monde comporte trop de drapeaux !
+messages.flag.overwrite=Vous ne pouvez pas écraser un motif existant.
+messages.flag.copied=Motif du drapeau copié.
 
-messages.death.mob.generic=%s died.
-messages.death.mob.lava=%s swam in lava.
-messages.death.mob.acid=%s bathed in acid.
-messages.death.mob.spikes=%s got impaled.
-messages.death.mob.fall=%s broke their legs.
-messages.death.mob.drowned=%s suffocated.
-messages.death.mob.fire=%s was incinerated.
-messages.death.mob.killed_by=%s was killed by %s.
+messages.death.mob.generic=%s est mort(e).
+messages.death.mob.lava=%s a nagé dans la lave.
+messages.death.mob.acid=%s s'est baigné dans l'acide.
+messages.death.mob.spikes=%s a été empalé(e).
+messages.death.mob.fall=%s s'est brisé les jambes.
+messages.death.mob.drowned=%s a suffoqué.
+messages.death.mob.fire=%s a été incinéré(e).
+messages.death.mob.killed_by=%s a été tué(e) par %s.
 
 messages.death.player.generic=%s died mysteriously.
 messages.death.player.lava=%s got lost in the sauce.

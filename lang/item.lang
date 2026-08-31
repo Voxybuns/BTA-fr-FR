@@ -1,6 +1,6 @@
-item.unknown.desc=You have not encountered this item yet.
+item.unknown.desc=Vous n'avez pas encore découvert cet objet.
 
-item.tool.shovel.iron.name=Iron Shovel
+item.tool.shovel.iron.name=Pelle en fer
 item.tool.shovel.iron.desc=Dig up the dirt with this iron tool.
 item.tool.pickaxe.iron.name=Iron Pickaxe
 item.tool.pickaxe.iron.desc=Pick some stone with this iron tool.
