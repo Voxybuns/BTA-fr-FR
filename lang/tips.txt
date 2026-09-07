@@ -1,28 +1,28 @@
-Press %key.guidebook to open the Guidebook.
-Portals can be as large (or small) as you want.
-The Trommel lets you turn useless dirt into valuable resources.
-Cherry trees bloom in spring.
-Leather boots keep your crops safe from trampling.
-Seasons change every 14 days.
-Items fall through mesh blocks.
-Blast furnaces smelt faster than regular ones.
-Press %key.fly to fly in creative.
-Moss spreads to nearby blocks. See what it can spread to!
-Use %key.fly + scroll up/down to change flying speed in creative.
-Sick of watching grass grow? Use bonemeal on dirt.
-Beds need blankets! Use cloth to craft them.
-Quivers provide a convenient way to store a lot of arrows.
-Olivine is a decent substitute for Nether coal.
-Outback soil is rich with minerals.
-There are 5 main types of rock in the overworld! See which one you like best.
-Fancy a splash of color? Try painting wooden planks!
-Press %key.hotbar.switch to change your active hotbar.
-Use a compass to see your coordinates.
-Use a clock to see the time of day.
-Use a rotary calendar to see the season.
-Labyrinths contain rare and exciting treasures.
-Right-clicking on one flag while holding another will copy its pattern.
-Signs can be dyed.
-Pebbles can be placed on the ground to make a nice path.
-Labels can be used to rename mobs and items.
-Press LCTRL while hovering over an item to see its description.
+Appuyez sur %key.guidebook pour ouvrir le guide.
+Les portails peuvent être aussi grands (ou petits) que vous le voulez.
+Le crible rotatif permet d'extraire de précieuses ressources de blocs de terre.
+Les cerisiers fleurissent au printemps.
+Les bottes en cuir empêchent de piétiner les cultures.
+Les saisons changent tous les 14 jours.
+Les objets passent au travers des blocs de maillage.
+Les hauts fourneaux fondent les minéraux plus vite que les fourneaux classiques.
+Appuyez sur %key.fly pour voler en mode créatif.
+La mousse se répand sur les blocs alentours. Essayez de voir sur quels blocs elle peut pousser !
+Utilisez la molette de la souris en maintenant %key.fly pour modifier votre vitesse de vol en mode créatif.
+Marre d'attendre que l'herbe pousse ? Utilisez de la poudre d'os sur de la terre.
+Pour fabriquer un lit, vous aurez besoin de tissu pour la couverture.
+Les carquois sont un moyen pratique de stocker beaucoup de flèches.
+Le charbon du Nether peut être remplacé par de l'olivine.
+La terre de l'Outback est riche en minéraux.
+Il y a 5 types de roche à la surface ! Choisissez votre préféré.
+Envie d'une touche de couleur ? Essayez de peindre des planches de bois !
+Appuyez sur %key.hotbar.switch pour changer de barre d'action active.
+Utilisez une boussole pour afficher vos coordonnées.
+Utilisez une horloge pour afficher l'heure de la journée.
+Utilisez un calendrier rotatif pour afficher la saison de l'année.
+Les labyrinthes contiennent des trésors rarissimes.
+Lorsque vous tenez un drapeau, un clic droit sur un autre drapeau copiera son dessin.
+Les pancartes et panneaux peuvent être peintes.
+Placez des galets par terre pour former un beau chemin.
+Les étiquettes servent à donner un nom aux créatures et objets.
+Appuyez sur %key.description pour afficher la description d'un objet que vous survolez.
