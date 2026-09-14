@@ -392,25 +392,25 @@ item.bucket.steel.milk.desc=Excessivement bon pour vos os.
 item.bucket.steel.icecream.name=Seau de crème glacée en fer
 item.bucket.steel.icecream.desc=C'est peut-être un peu trop de crème glacée...
 
-item.candle.soulwax.name=Bougie en cire des âmes
+item.candle.soulwax.name=Bougie des âmes
 item.candle.soulwax.desc=Une bougie marron qui émet une étrange lueur.
 
 item.jar.name=Bocal
 item.jar.desc=Un bocal fait de verre.
 item.lantern.firefly.green.name=Lanterne de lucioles vertes
-item.lantern.firefly.green.desc=Un bocal de verre contenant un essaim de lucioles vertes.
+item.lantern.firefly.green.desc=Un bocal en verre contenant un essaim de lucioles vertes.
 item.lantern.firefly.orange.name=Lanterne de lucioles oranges
-item.lantern.firefly.orange.desc=Un bocal de verre contenant un essaim de lucioles oranges.
+item.lantern.firefly.orange.desc=Un bocal en verre contenant un essaim de lucioles oranges.
 item.lantern.firefly.blue.name=Lanterne de lucioles bleues
-item.lantern.firefly.blue.desc=Un bocal de verre contenant un essaim de lucioles bleues.
+item.lantern.firefly.blue.desc=Un bocal en verre contenant un essaim de lucioles bleues.
 item.lantern.firefly.red.name=Lanterne à lucioles rouges
-item.lantern.firefly.red.desc=Un bocal de verre contenant un essaim de lucioles rouges.
+item.lantern.firefly.red.desc=Un bocal en verre contenant un essaim de lucioles rouges.
 
 item.basket.name=Panier
-item.basket.desc=Un petit panier en osier servant à transporter plus d'objets
+item.basket.desc=Un panier en osier qui peut contenir des objets.
 
 item.thatch.name=Paille
-item.thatch.desc=Un amas d'herbe sèche
+item.thatch.desc=Un amas d'herbe sèche.
 
 item.ore.raw.iron.name=Fer brut
 item.ore.raw.iron.desc=Un morceau de fer extrait de la roche. Peut être fondu en lingots.
