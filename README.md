@@ -1,6 +1,10 @@
 # bta-fr-FR
 Traduction en français (France) de « [Better than Adventure!](https://www.betterthanadventure.net/) »
 
+![alt text](docs/title_screen.png)
+![alt text](docs/options.png)
+![alt text](docs/guidebook.png)
+
 ## Installation
 - Téléchargez le [pack de traduction](https://github.com/Voxybuns/BTA-fr-FR/releases) pour la version de Better than Adventure! désirée.
 - Lancez Better than Adventure! et ouvrez le menu des options.
