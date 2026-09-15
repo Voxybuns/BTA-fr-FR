@@ -22,7 +22,7 @@ Utilisez une horloge pour afficher l'heure de la journée.
 Utilisez un calendrier rotatif pour afficher la saison de l'année.
 Les labyrinthes contiennent des trésors rarissimes.
 Lorsque vous tenez un drapeau, un clic droit sur un autre drapeau copiera son dessin.
-Les pancartes et panneaux peuvent être peintes.
+Les pancartes et panneaux peuvent être peints.
 Placez des galets par terre pour former un beau chemin.
 Les étiquettes servent à donner un nom aux créatures et objets.
 Appuyez sur %key.description pour afficher la description d'un objet que vous survolez.

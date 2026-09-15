@@ -1517,7 +1517,7 @@ tile.rubyglass.crystal.name=Cristal de rubis doré
 tile.rubyglass.crystal.desc=Un verre cristallin avec la teinte roseâtre du rubis doré.
 
 tile.vent.name=Cheminée géothermale
-tile.vent.desc=Une colonne explosive dont la puissance dépend de sa hauteur.
+tile.vent.desc=Une colonne explosive dont la puissance d'éruption dépend de sa hauteur.
 
 tile.bone_pile.name=Ossements
 tile.bone_pile.desc=Un tas d'os.
