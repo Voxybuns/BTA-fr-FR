@@ -69,7 +69,7 @@ subtitles.random.splash=Éclaboussures
 subtitles.random.breath=Respiration
 subtitles.random.bite=Joueur qui mange
 subtitles.random.equip=Armure équipée
-subtitles.random.stone_scrape=Décapage de roche
+subtitles.random.stone_scrape=Raclement de roche
 
 subtitles.note.snare=Note de caisse claire
 subtitles.note.harp=Note d'harpe
@@ -109,7 +109,7 @@ subtitles.tile.activator.use=Activateur en action
 
 subtitles.tile.crystal=Tintement de cristal
 
-subtitles.tile.scrape=Décapage de statue
+subtitles.tile.scrape=Raclement de statue
 
 subtitles.tile.deepcrumble=Éboulement grave
 subtitles.tile.deepboom=Détonation grave
