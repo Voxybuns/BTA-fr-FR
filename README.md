@@ -1,4 +1,4 @@
-# bta-fr-FR
+# Better than Adventure! en français (France)
 Traduction en français (France) de « [Better than Adventure!](https://www.betterthanadventure.net/) »
 
 ![alt text](docs/title_screen.png)
