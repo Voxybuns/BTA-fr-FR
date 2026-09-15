@@ -1,6 +1,11 @@
 # Better than Adventure! en français (France)
 Traduction en français (France) de « [Better than Adventure!](https://www.betterthanadventure.net/) »
 
+> [!IMPORTANT]
+> Je me suis rendu compte après avoir publié ce projet qu'il existait déjà un projet de [traduction de BTA! en français](https://github.com/Pygargue00fr/Pygargue00fr-Better-Than-Adventure---Localisation-Francaise), piloté par Pygargue00fr et publié originellement sur le Discord communautaire de BTA!, que je n'avais pas encore rejoint à ce moment-là.
+>
+> Comme deux projets distincts ne profitent pas à grand monde, j'ai décidé d'archiver ce projet, préférant contribuer à celui de Pygargue00fr. Par conséquent, ce dépôt ne bénéficiera d'aucune mise à jour !
+
 ![alt text](docs/title_screen.png)
 ![alt text](docs/options.png)
 ![alt text](docs/guidebook.png)
